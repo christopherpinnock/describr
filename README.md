@@ -1,2 +1,2 @@
 # describr
-Describr extends the features of WordPress' default profile page by giving users the ability to add more personal information than that provided by WordPress.
+A WordPress plugin that adds personal information and photo upload fields to user profiles.
